@@ -1,0 +1,19 @@
+{
+  "name": "rally",
+  "version": "1.0.0",
+  "description": "Coding exercise for Rally",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haveanicedavid/game-of-life-js.git"
+  },
+  "author": "David Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haveanicedavid/game-of-life-js/issues"
+  },
+  "homepage": "https://github.com/haveanicedavid/game-of-life-js#readme"
+}
