@@ -7,8 +7,8 @@ describe('Hand Evaluator', function() {
   //   assert(true);
   // });
 
-  // it('evaluates a two of a kind', function () {
-  //   assert.equal(evaluateHand('Ah As 4c 9h 3d'), 'Two of a Kind') ;
-  // });
+  it('evaluates a two of a kind', function () {
+    assert.equal(evaluateHand('Ah As 4c 9h 3d'), 'Two of a Kind') ;
+  });
 
 });
